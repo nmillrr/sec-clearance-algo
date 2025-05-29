@@ -1,0 +1,4 @@
+sec-api>=1.0.2
+aylien-apiclient>=1.12.0
+yfinance>=0.2.40
+pandas>=2.0.0
